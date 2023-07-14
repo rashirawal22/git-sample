@@ -1,9 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
-    background-color: #000000;    
+  background-color: #000000;
+  margin: 0px;
+  padding: 0px;
 }
 
 h1 {
-    font-size: 8rem;
-    color: red;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 8rem;
+  color: red;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
