@@ -5,6 +5,7 @@
 
 body {
   background-color: #000000;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin: 0px;
   padding: 0px;
 }
@@ -12,6 +13,9 @@ body {
 h1 {
   font-size: 8rem;
   color: red;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   transition: 0.4s ease-in-out;
+}
+
+h2 {
+  color: white;
 }
