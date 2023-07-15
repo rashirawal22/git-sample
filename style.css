@@ -13,4 +13,5 @@ h1 {
   font-size: 8rem;
   color: red;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  transition: 0.4s ease-in-out;
 }
